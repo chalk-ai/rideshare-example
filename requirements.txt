@@ -1,0 +1,6 @@
+snowflake-sqlalchemy
+snowflake-connector-python
+requests
+chalkpy[snowflake,sql,polars,runtime,postgresql]
+polars==0.19.8
+

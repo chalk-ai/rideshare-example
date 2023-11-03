@@ -1,0 +1,4 @@
+project: Sandbox
+environments:
+  default:
+    requirements: requirements.txt
